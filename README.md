@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%Danhyun's Git&fontSize=90)
 <!--
 **danhyunjo/danhyunjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/#F80000-auto?style=flat&logo=Oracle&logoColor=white"/>
