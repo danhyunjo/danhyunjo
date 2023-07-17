@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Danhyun's Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Danhyun's%Git&fontSize=90)
 <!--
 **danhyunjo/danhyunjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
